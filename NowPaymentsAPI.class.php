@@ -1,6 +1,7 @@
 <?php 
+namespace NowPaymentsAPI;
 
-class NowPaymentsAPI {
+class ClientAPI {
 	private $session, $token;
 
 	const API_BASE = 'https://api.nowpayments.io/v1/';
