@@ -1,5 +1,5 @@
 <?php 
-namespace NowPaymentsAPI;
+namespace FASTJE\NowPaymentsAPI;
 
 class Client {
 	private $session, $token;
